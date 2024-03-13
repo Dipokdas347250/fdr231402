@@ -1,0 +1,40 @@
+.onetwo{
+  text-align: center;
+}
+.one01{
+  height: 30px;
+  width: 40px;
+  background-color: aqua;
+  margin-top: 30px;
+  border: none;
+  font-size: 30px;
+  line-height: 20px;
+}
+.two02{
+  height: 30px;
+  width: 40px;
+  background-color: aqua;
+  
+  border: none;
+  font-size: 30px;
+  line-height: 20px;
+}
+.one{
+  height: 400px;
+  width: 600px;
+  background-color: aqua;
+ margin-left: 340px;
+ margin-top: 20px;
+}
+.three{
+  text-align: center;
+}
+.two{
+  height: 400px;
+  width: 600px;
+  background-color: rebeccapurple;
+ margin-left: 340px;
+ margin-top: 20px;
+}
+
+
